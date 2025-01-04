@@ -1,6 +1,6 @@
 <tv>
   <channel id=etv>
-    <display-name>ETV</display-name>
+    <display-name>ETV HD</display-name>
   </channel>
   <programme start="20250104120000 +0000" stop="20250104123000 +0000" channel="channel1">
     <title>Program Title</title>
